@@ -822,7 +822,7 @@ I'm passionate about building innovative software solutions and always open to d
 
 **Ready to hire a developer who can build enterprise-level applications?**
 
-[📧 **Contact Me**](mailto:abubakarchanda3@gmail.com) | [💼 **View Portfolio**]([https://yourportfolio.com](https://arshsnaz.github.io/portfolio/)) | [🔗 **Connect on LinkedIn**](https://www.linkedin.com/in/abubakarchanda/)
+[📧 **Contact Me**](mailto:abubakarchanda3@gmail.com) | [💼 **View Portfolio**](https://yourportfolio.com](https://arshsnaz.github.io/portfolio/) | [🔗 **Connect on LinkedIn**](https://www.linkedin.com/in/abubakarchanda/)
 
 ---
 
