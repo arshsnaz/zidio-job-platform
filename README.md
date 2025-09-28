@@ -788,10 +788,10 @@ git push origin feature/amazing-new-feature
 - 🚀 DevOps & Deployment Strategies
 
 **Professional Links:**
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)
-- 📧 **Email**: your.email@example.com
+- 💼 **LinkedIn**: [linkedin.com/in/abubakar](https://www.linkedin.com/in/abubakarchanda/)
+- 🐙 **GitHub**: [github.com/abubakar](https://github.com/arshsnaz)
+- 🌐 **Portfolio**: [AbubakarPortfolio.com](https://arshsnaz.github.io/portfolio/)
+- 📧 **Email**: abubakarchanda3@gmail.com
 
 ### **� Let's Connect!**
 I'm passionate about building innovative software solutions and always open to discussing new opportunities, collaborations, or technical challenges. Feel free to reach out!
@@ -822,7 +822,7 @@ I'm passionate about building innovative software solutions and always open to d
 
 **Ready to hire a developer who can build enterprise-level applications?**
 
-[📧 **Contact Me**](mailto:abubakarchanda3@gmail.com) | [💼 **View Portfolio**](https://yourportfolio.com](https://arshsnaz.github.io/portfolio/) | [🔗 **Connect on LinkedIn**](https://www.linkedin.com/in/abubakarchanda/)
+[📧 **Contact Me**](mailto:abubakarchanda3@gmail.com) | [💼 **View Portfolio**](https://arshsnaz.github.io/portfolio/) | [🔗 **Connect on LinkedIn**](https://www.linkedin.com/in/abubakarchanda/)
 
 ---
 
