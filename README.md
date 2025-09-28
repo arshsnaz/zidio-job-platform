@@ -819,11 +819,10 @@ I'm passionate about building innovative software solutions and always open to d
 
 ## ⭐ **If this project impressed you, please give it a star!** ⭐
 
-### 🚀 **Built with ❤️ for connecting talent with opportunity**
 
 **Ready to hire a developer who can build enterprise-level applications?**
 
-[📧 **Contact Me**](mailto:your.email@example.com) | [💼 **View Portfolio**](https://yourportfolio.com) | [🔗 **Connect on LinkedIn**](https://linkedin.com/in/yourprofile)
+[📧 **Contact Me**](mailto:abubakarchanda3@gmail.com) | [💼 **View Portfolio**]([https://yourportfolio.com](https://arshsnaz.github.io/portfolio/)) | [🔗 **Connect on LinkedIn**](https://www.linkedin.com/in/abubakarchanda/)
 
 ---
 
